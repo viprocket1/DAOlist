@@ -1,2 +1,2 @@
 # DAOlist
-List of all amazing dao on Solana
+List of all amazing DAOs on Solana
